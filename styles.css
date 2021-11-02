@@ -9,9 +9,9 @@
     color: #ffffff;
 }
 body{
-    margin: 0px;
+    margin: 0px
     /* modify background color here*/
-    background-color:#000000;
+    background-color:#008080;
     
 }
 
@@ -32,8 +32,8 @@ body{
     border-radius: 20px;
     background-color: #ffffff;
     /* modify margin and padding here*/
-    padding: 200px;
-    margin: 0px;
+    padding: 30px;
+    margin: 25px;
     width:310px;
     font-family: fantasy;
     
